@@ -1,0 +1,14 @@
+C:\Users\rafam\Desktop\Atividade Programação\bin\Debug\net9.0\Atividade Programação.exe
+C:\Users\rafam\Desktop\Atividade Programação\bin\Debug\net9.0\Atividade Programação.deps.json
+C:\Users\rafam\Desktop\Atividade Programação\bin\Debug\net9.0\Atividade Programação.runtimeconfig.json
+C:\Users\rafam\Desktop\Atividade Programação\bin\Debug\net9.0\Atividade Programação.dll
+C:\Users\rafam\Desktop\Atividade Programação\bin\Debug\net9.0\Atividade Programação.pdb
+C:\Users\rafam\Desktop\Atividade Programação\obj\Debug\net9.0\Atividade Programação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafam\Desktop\Atividade Programação\obj\Debug\net9.0\Atividade Programação.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\Atividade Programação\obj\Debug\net9.0\Atividade Programação.AssemblyInfo.cs
+C:\Users\rafam\Desktop\Atividade Programação\obj\Debug\net9.0\Atividade Programação.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\Atividade Programação\obj\Debug\net9.0\Atividade Programação.dll
+C:\Users\rafam\Desktop\Atividade Programação\obj\Debug\net9.0\refint\Atividade Programação.dll
+C:\Users\rafam\Desktop\Atividade Programação\obj\Debug\net9.0\Atividade Programação.pdb
+C:\Users\rafam\Desktop\Atividade Programação\obj\Debug\net9.0\Atividade Programação.genruntimeconfig.cache
+C:\Users\rafam\Desktop\Atividade Programação\obj\Debug\net9.0\ref\Atividade Programação.dll
